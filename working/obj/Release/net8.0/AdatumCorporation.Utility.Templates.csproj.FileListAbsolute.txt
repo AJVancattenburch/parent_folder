@@ -1,0 +1,11 @@
+C:\source\templates\parent_folder\working\bin\Release\net8.0\AdatumCorporation.Utility.Templates.deps.json
+C:\source\templates\parent_folder\working\bin\Release\net8.0\AdatumCorporation.Utility.Templates.dll
+C:\source\templates\parent_folder\working\bin\Release\net8.0\AdatumCorporation.Utility.Templates.pdb
+C:\source\templates\parent_folder\working\obj\Release\net8.0\AdatumCorporation.Utility.Templates.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\templates\parent_folder\working\obj\Release\net8.0\AdatumCorporation.Utility.Templates.AssemblyInfoInputs.cache
+C:\source\templates\parent_folder\working\obj\Release\net8.0\AdatumCorporation.Utility.Templates.AssemblyInfo.cs
+C:\source\templates\parent_folder\working\obj\Release\net8.0\AdatumCorporation.Utility.Templates.csproj.CoreCompileInputs.cache
+C:\source\templates\parent_folder\working\obj\Release\net8.0\AdatumCorporation.Utility.Templates.dll
+C:\source\templates\parent_folder\working\obj\Release\net8.0\refint\AdatumCorporation.Utility.Templates.dll
+C:\source\templates\parent_folder\working\obj\Release\net8.0\AdatumCorporation.Utility.Templates.pdb
+C:\source\templates\parent_folder\working\obj\Release\net8.0\ref\AdatumCorporation.Utility.Templates.dll

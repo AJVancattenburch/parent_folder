@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AdatumCorporation.Utility.Templates</id>
+    <version>1.0.0</version>
+    <title>AdatumCorporation Templates</title>
+    <authors>Anthony Vancattenburch</authors>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/AJVancattenburch?tab=repositories</projectUrl>
+    <description>Templates to use when creating an application for Adatum Corporation.</description>
+    <tags>dotnet-new templates contoso</tags>
+    <packageTypes>
+      <packageType name="Template" />
+    </packageTypes>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\source\templates\parent_folder\working\content\consoleasync\.template.config\template.json" target="content\content\consoleasync\.template.config\template.json" />
+    <file src="C:\source\templates\parent_folder\working\content\consoleasync\consoleasync.csproj" target="content\content\consoleasync\consoleasync.csproj" />
+    <file src="C:\source\templates\parent_folder\working\content\consoleasync\Program.cs" target="content\content\consoleasync\Program.cs" />
+    <file src="C:\source\templates\parent_folder\working\content\extensions\.template.config\template.json" target="content\content\extensions\.template.config\template.json" />
+    <file src="C:\source\templates\parent_folder\working\content\extensions\StringExtensions.cs" target="content\content\extensions\StringExtensions.cs" />
+    <file src="C:\source\templates\parent_folder\working\content\SampleTemplate\placeholder.txt" target="content\content\SampleTemplate\placeholder.txt" />
+    <file src="C:\source\templates\parent_folder\working\README.md" target="README.md" />
+  </files>
+</package>

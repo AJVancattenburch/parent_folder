@@ -1,0 +1,14 @@
+C:\source\templates\parent_folder\test\bin\Debug\net8.0\consoleasync.exe
+C:\source\templates\parent_folder\test\bin\Debug\net8.0\consoleasync.deps.json
+C:\source\templates\parent_folder\test\bin\Debug\net8.0\consoleasync.runtimeconfig.json
+C:\source\templates\parent_folder\test\bin\Debug\net8.0\consoleasync.dll
+C:\source\templates\parent_folder\test\bin\Debug\net8.0\consoleasync.pdb
+C:\source\templates\parent_folder\test\obj\Debug\net8.0\consoleasync.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\templates\parent_folder\test\obj\Debug\net8.0\consoleasync.AssemblyInfoInputs.cache
+C:\source\templates\parent_folder\test\obj\Debug\net8.0\consoleasync.AssemblyInfo.cs
+C:\source\templates\parent_folder\test\obj\Debug\net8.0\consoleasync.csproj.CoreCompileInputs.cache
+C:\source\templates\parent_folder\test\obj\Debug\net8.0\consoleasync.dll
+C:\source\templates\parent_folder\test\obj\Debug\net8.0\refint\consoleasync.dll
+C:\source\templates\parent_folder\test\obj\Debug\net8.0\consoleasync.pdb
+C:\source\templates\parent_folder\test\obj\Debug\net8.0\consoleasync.genruntimeconfig.cache
+C:\source\templates\parent_folder\test\obj\Debug\net8.0\ref\consoleasync.dll

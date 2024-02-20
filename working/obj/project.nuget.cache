@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "25jpr5lFfTiaCkaEJWgFVbYWucg11YmW1XHwxO573Uiib4rRlpWjTV+ISN8mdoxyYozCakNoB7yhZtYbo4pO4w==",
+  "success": true,
+  "projectFilePath": "C:\\source\\templates\\parent_folder\\working\\AdatumCorporation.Utility.Templates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wande\\.nuget\\packages\\microsoft.templateengine.tasks\\7.0.116\\microsoft.templateengine.tasks.7.0.116.nupkg.sha512"
+  ],
+  "logs": []
+}
